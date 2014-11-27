@@ -28,7 +28,8 @@ gem 'jbuilder', '~> 1.2'
 # Bootstrap gem
 gem 'bootstrap-sass'
 
-
+# Devise gem
+gem 'devise', '~> 3.4.1'
 
 group :development, :test do
 # Use sqlite3 as the database for Active Record
