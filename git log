@@ -1,0 +1,71 @@
+[33mcommit 4a903201e72b3aaaec2fdb9a2c987302bc8a9d3d[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Wed Nov 26 23:06:08 2014 -0800
+
+    Add a link to account settings
+
+[33mcommit aafb9e02f823311d9d344aa94021a6b650adbd52[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Wed Nov 26 23:00:42 2014 -0800
+
+    Change the devise views
+
+[33mcommit a952f4df016780fed7a36e87de882aa132d492df[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Wed Nov 26 21:20:51 2014 -0800
+
+    Implement Devise for users
+
+[33mcommit 64bcafd5e730ffd52e31906c2e3fff373447eadc[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sun Nov 16 13:12:25 2014 -0800
+
+    Specified ruby version in Gemfile
+
+[33mcommit 8cb095d0a3173a6296cc5ef1d13b7bcb4107c58f[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sun Nov 16 13:01:24 2014 -0800
+
+    Ran bundle install
+
+[33mcommit 9f7fa656bbfd86d71cc36b56d8d177bcf08d0bea[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sun Nov 16 12:56:01 2014 -0800
+
+    Added pg and rails_12factor gems for Heroku
+
+[33mcommit e06c91ff2ed7068fe4ebb26a757355f2197afd18[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sun Nov 2 15:25:51 2014 -0800
+
+    Added Bootstrap and customizations
+
+[33mcommit f90bcee8e24f8411f5ab5d0cb4bb50246e97aca3[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sun Nov 2 12:00:51 2014 -0800
+
+    Created home and about pages
+
+[33mcommit 3086798ed879136e3dae4fde31ac34286528408d[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sat Nov 1 15:15:41 2014 -0700
+
+    Changed the Readme.md
+
+[33mcommit 3ac0b012cc96cc5170693d717c5a9d0666b58a96[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sat Nov 1 15:14:17 2014 -0700
+
+    Changed the Readme.md
+
+[33mcommit 714702cbf2a49a3ed3f9372fd227f559e65838cd[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sat Nov 1 15:12:01 2014 -0700
+
+    Changed the Readme.md
+
+[33mcommit c63a61d81d9693cc76624e56a28d60befa3601dd[m
+Author: Eileen Ho <eileenicus@gmail.com>
+Date:   Sat Nov 1 14:37:23 2014 -0700
+
+    initial commit
